@@ -7,8 +7,8 @@ xx.planet=2;
 
 FeatureSun xeron = new FeatureSun();
 xeron.Heat="12445";
-xeron.size=1243152;
-xeron.Temperature="2342";
+xeron.Size=1243152;
+xeron.Temperature=23462332;
 
 
     }
