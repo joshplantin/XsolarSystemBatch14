@@ -5,5 +5,11 @@ xx.moon=1;
 xx.sun=1;
 xx.planet=2;
 
+FeatureSun xeron = new FeatureSun();
+xeron.Heat="12445";
+xeron.Size=1243152;
+xeron.Temperature=23462332;
+
+
     }
 }
